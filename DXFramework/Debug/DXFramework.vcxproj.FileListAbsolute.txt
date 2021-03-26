@@ -1,0 +1,7 @@
+C:\Portfolio\f\Debug\DXFramework.pdb
+C:\Portfolio\f\DXFramework\Debug\DXFramework.pdb
+C:\Portfolio\New folder\Shaders-Uni\Debug\DXFramework.pdb
+C:\Portfolio\New folder\Shaders-Uni\DXFramework\Debug\DXFramework.pdb
+C:\Portfolio\Shaders\New folder\Shaders-Uni\Debug\DXFramework.pdb
+C:\Portfolio\Shaders\New folder\Shaders-Uni\DXFramework\Debug\DXFramework.pdb
+C:\Portfolio\Shaders\New folder\Shaders-Uni\exe\DXFramework.pdb
